@@ -261,7 +261,7 @@
             "last_commit": "2025-06-02T21:11:06Z",
             "owner": "neuralmagic",
             "repo": "deepsparse",
-            "stars": 3157
+            "stars": 3158
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558
+            "stars": 34556
           }
         },
         {
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-25T06:02:21Z",
+            "last_commit": "2026-08-26T00:16:18Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11127
+            "stars": 11128
           }
         }
       ],
@@ -404,7 +404,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558
+                "stars": 34556
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:02:21Z",
+                "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11127
+                "stars": 11128
               }
             },
             {
@@ -506,10 +506,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T22:16:18Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5261
+                "stars": 5262
               }
             }
           ],
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10294
+                "stars": 10303
               }
             },
             {
@@ -594,10 +594,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:02:21Z",
+                "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11127
+                "stars": 11128
               }
             },
             {
@@ -609,10 +609,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T22:16:18Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5261
+                "stars": 5262
               }
             },
             {
@@ -627,7 +627,7 @@
                 "last_commit": "2024-02-08T15:54:40Z",
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5002
+                "stars": 5003
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45266
+                "stars": 45270
               }
             }
           ],
@@ -747,10 +747,10 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:18:49Z",
+                "last_commit": "2026-08-25T23:18:21Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -777,7 +777,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:29:14Z",
+                "last_commit": "2026-08-25T18:32:26Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -792,10 +792,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-25T01:20:49Z",
+                "last_commit": "2026-08-25T19:57:27Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27391
+                "stars": 27396
               }
             },
             {
@@ -810,7 +810,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3403
+                "stars": 3404
               }
             },
             {
@@ -825,7 +825,7 @@
                 "last_commit": "2024-02-08T15:54:40Z",
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5002
+                "stars": 5003
               }
             },
             {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29520
+                "stars": 29521
               }
             }
           ],
@@ -920,7 +920,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -950,7 +950,7 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28204
+                "stars": 28206
               }
             },
             {
@@ -980,7 +980,7 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18644
+                "stars": 18645
               }
             },
             {
@@ -1025,7 +1025,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28097
+                "stars": 28099
               }
             },
             {
@@ -1040,7 +1040,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33841
+                "stars": 33848
               }
             }
           ],
@@ -1068,7 +1068,7 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94613
+                "stars": 94622
               }
             },
             {
@@ -1083,7 +1083,7 @@
                 "last_commit": "2026-08-24T05:34:22Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48205
+                "stars": 48203
               }
             },
             {
@@ -1095,10 +1095,10 @@
                 "archived": false,
                 "id": 20300177,
                 "language": "Java",
-                "last_commit": "2026-08-24T21:31:37Z",
+                "last_commit": "2026-08-25T23:31:41Z",
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51890
+                "stars": 51887
               }
             },
             {
@@ -1218,7 +1218,7 @@
                 "archived": false,
                 "id": 95587276,
                 "language": "Julia",
-                "last_commit": "2026-08-24T13:12:16Z",
+                "last_commit": "2026-08-25T08:53:36Z",
                 "owner": "timholy",
                 "repo": "Revise.jl",
                 "stars": 1351
@@ -1236,7 +1236,7 @@
                 "last_commit": "2026-06-23T05:55:43Z",
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2896
+                "stars": 2897
               }
             },
             {
@@ -1308,7 +1308,7 @@
                 "archived": false,
                 "id": 28725415,
                 "language": "Julia",
-                "last_commit": "2026-08-21T09:19:33Z",
+                "last_commit": "2026-08-25T11:38:48Z",
                 "owner": "JuliaInterop",
                 "repo": "RCall.jl",
                 "stars": 338
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:00.291Z",
+    "last_updated": "2026-08-26T02:38:26.903Z",
     "original_repository": "mikeroyal/NLP-Guide",
     "original_repository_id": 401443731,
     "original_repository_sha": "ab69c51f55a57dbcff6b8463fedc32fe7d73250c",
