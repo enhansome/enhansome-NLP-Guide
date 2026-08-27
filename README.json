@@ -506,7 +506,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:54:41Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -609,7 +609,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:54:41Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45279
+                "stars": 45280
               }
             }
           ],
@@ -795,7 +795,7 @@
                 "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27404
+                "stars": 27403
               }
             },
             {
@@ -935,7 +935,7 @@
                 "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25036
+                "stars": 25035
               }
             },
             {
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:09:50.403Z",
+    "last_updated": "2026-08-27T11:53:42.015Z",
     "original_repository_info": {
       "archived": false,
       "id": 401443731,
