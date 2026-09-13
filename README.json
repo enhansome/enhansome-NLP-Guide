@@ -585,7 +585,7 @@
             "open_issues": 216,
             "owner": "apple",
             "repo": "tensorflow_macos",
-            "stars": 3648,
+            "stars": 3647,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:52.677Z"
@@ -702,7 +702,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -769,7 +769,7 @@
             "open_issues": 1789,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11149,
+            "stars": 11150,
             "topics": [
               "compiler",
               "cuda",
@@ -806,7 +806,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3648,
+                "stars": 3647,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -848,7 +848,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34552,
+                "stars": 34553,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -949,7 +949,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11926,
+                "stars": 11925,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -996,7 +996,7 @@
                 "open_issues": 1789,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11149,
+                "stars": 11150,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1021,8 +1021,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:17:09Z",
-                "open_issues": 802,
+                "last_commit": "2026-09-13T00:39:21Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5277,
@@ -1065,7 +1065,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17594,
+                "stars": 17595,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1088,10 +1088,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T06:20:12Z",
-                "open_issues": 726,
+                "open_issues": 742,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10416,
+                "stars": 10422,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1789,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11149,
+                "stars": 11150,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1204,8 +1204,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:17:09Z",
-                "open_issues": 802,
+                "last_commit": "2026-09-13T00:39:21Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5277,
@@ -1235,7 +1235,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1412,10 +1412,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T15:54:13Z",
-                "open_issues": 246,
+                "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45314,
+                "stars": 45313,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -1493,7 +1493,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T02:28:34Z",
+                "last_commit": "2026-09-13T02:20:07Z",
                 "open_issues": 204,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1530,10 +1530,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-11T22:56:10Z",
-                "open_issues": 1108,
+                "open_issues": 1115,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27459,
+                "stars": 27460,
                 "topics": [
                   "c",
                   "cmake",
@@ -1606,7 +1606,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1674,7 +1674,7 @@
                 "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29591,
+                "stars": 29593,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1776,7 +1776,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38501,
+                "stars": 38503,
                 "topics": [
                   "api",
                   "api-client",
@@ -1869,7 +1869,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8782,
+                "stars": 8786,
                 "topics": [
                   "bottle",
                   "python",
@@ -1993,10 +1993,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T06:44:42Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28144,
+                "stars": 28148,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -2029,7 +2029,7 @@
                 "open_issues": 240,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33892,
+                "stars": 33894,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2111,7 +2111,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48204,
+                "stars": 48206,
                 "topics": [
                   "flow",
                   "java",
@@ -2134,10 +2134,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T02:19:50Z",
-                "open_issues": 754,
+                "open_issues": 755,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51900,
+                "stars": 51903,
                 "topics": [
                   "guava",
                   "java"
@@ -2161,7 +2161,7 @@
                 "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25593,
+                "stars": 25594,
                 "topics": [
                   "android",
                   "best-performance",
@@ -2282,8 +2282,8 @@
                 "id": 112856111,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2023-02-13T12:01:36Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-12T11:33:49Z",
+                "open_issues": 5,
                 "owner": "bkamins",
                 "repo": "Julia-DataFrames-Tutorial",
                 "stars": 538,
@@ -2365,7 +2365,7 @@
                 "open_issues": 36,
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -2666,7 +2666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:42:50.792Z",
+    "last_updated": "2026-09-13T06:03:20.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "Natural Language Processing (NLP). Covering topics such as Tokenization, Part Of Speech tagging (POS), Machine translation, Named Entity Recognition (NER), Classification, and Sentiment analysis. ",
