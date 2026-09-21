@@ -504,7 +504,7 @@
             "open_issues": 31,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14388,
+            "stars": 14389,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -564,7 +564,7 @@
             "open_issues": 233,
             "owner": "clab",
             "repo": "dynet",
-            "stars": 3433,
+            "stars": 3432,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:52.677Z"
@@ -638,8 +638,8 @@
             "id": 281528773,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T03:37:21Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-20T12:10:54Z",
+            "open_issues": 21,
             "owner": "intel",
             "repo": "neural-compressor",
             "stars": 2709,
@@ -727,7 +727,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10002,
+            "stars": 10001,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:52.677Z"
@@ -873,7 +873,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10002,
+                "stars": 10001,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -1091,7 +1091,7 @@
                 "open_issues": 745,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10458,
+                "stars": 10461,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1415,7 +1415,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45317,
+                "stars": 45322,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -1439,7 +1439,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-18T23:38:16Z",
+                "last_commit": "2026-09-20T09:09:53Z",
                 "open_issues": 165,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -1493,8 +1493,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T00:50:32Z",
-                "open_issues": 197,
+                "last_commit": "2026-09-21T03:39:15Z",
+                "open_issues": 201,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -1529,11 +1529,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-09-19T05:46:12Z",
-                "open_issues": 1110,
+                "last_commit": "2026-09-20T19:17:45Z",
+                "open_issues": 1125,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27470,
+                "stars": 27476,
                 "topics": [
                   "c",
                   "cmake",
@@ -1565,7 +1565,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3404,
+                "stars": 3403,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -1674,7 +1674,7 @@
                 "open_issues": 55,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29614,
+                "stars": 29615,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1744,7 +1744,7 @@
                 "open_issues": 495,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11058,
+                "stars": 11057,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -1818,7 +1818,7 @@
                 "open_issues": 16,
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25027,
+                "stars": 25026,
                 "topics": [
                   "packaging",
                   "pip",
@@ -1893,10 +1893,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T03:09:51Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18636,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -1992,11 +1992,11 @@
                 "id": 1377867,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:38:02Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-20T12:53:57Z",
+                "open_issues": 3,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28169,
+                "stars": 28171,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -2029,7 +2029,7 @@
                 "open_issues": 245,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33911,
+                "stars": 33910,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2107,11 +2107,11 @@
                 "id": 7508411,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T06:49:14Z",
+                "last_commit": "2026-09-21T05:09:01Z",
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48194,
+                "stars": 48193,
                 "topics": [
                   "flow",
                   "java",
@@ -2137,7 +2137,7 @@
                 "open_issues": 757,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51906,
+                "stars": 51907,
                 "topics": [
                   "guava",
                   "java"
@@ -2161,7 +2161,7 @@
                 "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25591,
+                "stars": 25590,
                 "topics": [
                   "android",
                   "best-performance",
@@ -2365,7 +2365,7 @@
                 "open_issues": 36,
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -2666,7 +2666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:09:41.707Z",
+    "last_updated": "2026-09-21T06:15:08.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Natural Language Processing (NLP). Covering topics such as Tokenization, Part Of Speech tagging (POS), Machine translation, Named Entity Recognition (NER), Classification, and Sentiment analysis. ",
