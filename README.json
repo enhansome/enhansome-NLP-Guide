@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -60,7 +60,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -265,7 +265,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -388,7 +388,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -429,7 +429,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "NLP-Guide",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -642,7 +642,7 @@
             "open_issues": 27,
             "owner": "intel",
             "repo": "neural-compressor",
-            "stars": 2713,
+            "stars": 2712,
             "topics": [
               "auto-tuning",
               "awq",
@@ -702,7 +702,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -766,10 +766,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-25T22:46:41Z",
-            "open_issues": 1804,
+            "open_issues": 1805,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11161,
+            "stars": 11164,
             "topics": [
               "compiler",
               "cuda",
@@ -848,7 +848,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34553,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -993,10 +993,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-25T22:46:41Z",
-                "open_issues": 1804,
+                "open_issues": 1805,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11161,
+                "stars": 11164,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1022,7 +1022,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T16:55:35Z",
-                "open_issues": 806,
+                "open_issues": 807,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5290,
@@ -1088,10 +1088,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 757,
+                "open_issues": 767,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10496,
+                "stars": 10499,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1176,10 +1176,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-25T22:46:41Z",
-                "open_issues": 1804,
+                "open_issues": 1805,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11161,
+                "stars": 11164,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1205,7 +1205,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T16:55:35Z",
-                "open_issues": 806,
+                "open_issues": 807,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5290,
@@ -1312,7 +1312,7 @@
                 "open_issues": 19,
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1259,
+                "stars": 1258,
                 "topics": [
                   "color-scheme",
                   "color-theme",
@@ -1415,7 +1415,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45332,
+                "stars": 45335,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:52.677Z"
@@ -1493,7 +1493,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T05:15:41Z",
+                "last_commit": "2026-09-27T01:08:50Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1529,11 +1529,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-09-26T04:12:43Z",
-                "open_issues": 1088,
+                "last_commit": "2026-09-27T00:04:06Z",
+                "open_issues": 1087,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27485,
+                "stars": 27492,
                 "topics": [
                   "c",
                   "cmake",
@@ -1671,7 +1671,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T12:40:45Z",
-                "open_issues": 51,
+                "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
                 "stars": 29631,
@@ -1773,10 +1773,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 337,
+                "open_issues": 341,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38585,
+                "stars": 38590,
                 "topics": [
                   "api",
                   "api-client",
@@ -1869,7 +1869,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8790,
+                "stars": 8792,
                 "topics": [
                   "bottle",
                   "python",
@@ -1896,7 +1896,7 @@
                 "open_issues": 150,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18635,
+                "stars": 18634,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -1992,8 +1992,8 @@
                 "id": 1377867,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:01:24Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-26T09:11:45Z",
+                "open_issues": 2,
                 "owner": "locustio",
                 "repo": "locust",
                 "stars": 28184,
@@ -2029,7 +2029,7 @@
                 "open_issues": 246,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33922,
+                "stars": 33924,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2081,7 +2081,7 @@
                 "open_issues": 128,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94728,
+                "stars": 94731,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -2133,11 +2133,11 @@
                 "id": 20300177,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T20:50:00Z",
-                "open_issues": 750,
+                "last_commit": "2026-09-26T23:44:35Z",
+                "open_issues": 748,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51912,
+                "stars": 51911,
                 "topics": [
                   "guava",
                   "java"
@@ -2161,7 +2161,7 @@
                 "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25589,
+                "stars": 25588,
                 "topics": [
                   "android",
                   "best-performance",
@@ -2339,7 +2339,7 @@
                 "open_issues": 12,
                 "owner": "timholy",
                 "repo": "Revise.jl",
-                "stars": 1358,
+                "stars": 1359,
                 "topics": [
                   "developer-tools",
                   "jit",
@@ -2457,7 +2457,7 @@
                 "open_issues": 111,
                 "owner": "JuliaNLSolvers",
                 "repo": "Optim.jl",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "julia",
                   "optim",
@@ -2556,7 +2556,7 @@
                 "open_issues": 480,
                 "owner": "JuliaStats",
                 "repo": "Distributions.jl",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "data-science",
                   "julia",
@@ -2631,7 +2631,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "NLP-Guide",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2666,7 +2666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:07:24.453Z",
+    "last_updated": "2026-09-27T06:34:02.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Natural Language Processing (NLP). Covering topics such as Tokenization, Part Of Speech tagging (POS), Machine translation, Named Entity Recognition (NER), Classification, and Sentiment analysis. ",
@@ -2678,7 +2678,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "NLP-Guide",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "awesome",
         "awesome-list",
