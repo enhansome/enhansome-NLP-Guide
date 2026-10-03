@@ -982,8 +982,8 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:19:49Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-03T05:50:22Z",
+                "open_issues": 157,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 206,
@@ -1036,7 +1036,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:26:23Z",
+                "last_commit": "2026-10-03T05:02:29Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1072,7 +1072,7 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:56:12Z",
+                "last_commit": "2026-10-03T06:20:25Z",
                 "open_issues": 1092,
                 "owner": "microsoft",
                 "repo": "vcpkg",
@@ -2161,7 +2161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:49.901Z",
+    "last_updated": "2026-10-03T06:25:21.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Natural Language Processing (NLP). Covering topics such as Tokenization, Part Of Speech tagging (POS), Machine translation, Named Entity Recognition (NER), Classification, and Sentiment analysis. ",
